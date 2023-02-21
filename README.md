@@ -8,6 +8,8 @@ This was accomplished by adding the "alt" attribute to all images, adding semant
 ## Usage
 To use this modified Webpage for Horiseon you can use links in the Nav bar like before but now if you use a screen reader you will be able to hear a description of the images and the the user will be able to navigate the website better due to the semantic HTML. the following is a picture of the webpage after the refactoring.  
 ![a picture of the webpage after the refactoring](./Develop/assets/images/Horiseon.png) 
+
+- the link to the modifided application is https://sam-dejesus.github.io/Horiseon/
 ## Credits
  N/A
 ## license
